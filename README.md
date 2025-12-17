@@ -6,6 +6,8 @@ This repository provides a comprehensive roadmap for learning and mastering Gene
 
 <img src="roadmaps/bytebytego/assets/bytebytego.png" alt="Generative AI Roadmap by ByteByteGo" height="400">
 
+[AI Learning Path by KodeCloud](https://kodekloud.com/learning-path/ai/)
+
 ## Certifications
 
 * [AWS Certified Generative AI Developer - Professional](https://aws.amazon.com/certification/certified-generative-ai-developer-professional/)
